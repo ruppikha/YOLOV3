@@ -16,7 +16,7 @@ Download yolov3.weights using this link: https://pjreddie.com/media/files/yolov3
 1. **Clone Repository:**  
    Clone this repository to your local machine using the following command:
    ```
-   git clone <repository_url>
+   git clone https://github.com/ruppikha/YOLOV3.git
    ```
 
 2. **Install Dependencies:**  
